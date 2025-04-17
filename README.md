@@ -4,8 +4,8 @@ This project is an implementation of neural networks built from the ground up, w
  
 ## TODO List
 
-- [x] Implement standard activations (ReLU, Sigmoid, Softmax)
-- [x] Forward & Backward Propagation for layers
+- [ ] Implement standard activations (ReLU, Sigmoid, Softmax)
+- [ ] Forward & Backward Propagation for layers
 - [ ] Implement early stopping and dropout
 - [ ] Implement advanced activations for more complex implementations
 - [ ] Implement custom loss functions (e.g., Cross Entropy)
